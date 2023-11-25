@@ -1,3 +1,6 @@
+# Docker - PHP - Template
+The work by Gary Clarke gives a great tutorial for setting up a PHP Dockerized development environment.  It includes many details outside my personal use cases that are valuable and should be recognized.  I would strongly recommend viewing Clarke's tutorial if you have any questions regarding structure and implementation of the UW Asset Manager application, that uses this project as an initial template.
+
 # Docker - PHP
 
 [Docker PHP][1] is a **Docker and PHP** repository which accompanies [a YouTube tutorial][2].
